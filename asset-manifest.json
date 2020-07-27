@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactSocial.git/static/css/main.44d12d77.chunk.css",
-    "main.js": "/ReactSocial.git/static/js/main.a26d12dc.chunk.js",
-    "main.js.map": "/ReactSocial.git/static/js/main.a26d12dc.chunk.js.map",
+    "main.js": "/ReactSocial.git/static/js/main.e72a5117.chunk.js",
+    "main.js.map": "/ReactSocial.git/static/js/main.e72a5117.chunk.js.map",
     "runtime-main.js": "/ReactSocial.git/static/js/runtime-main.4ce131e0.js",
     "runtime-main.js.map": "/ReactSocial.git/static/js/runtime-main.4ce131e0.js.map",
     "static/js/2.b4ff5aa8.chunk.js": "/ReactSocial.git/static/js/2.b4ff5aa8.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.e33eb600.chunk.js": "/ReactSocial.git/static/js/4.e33eb600.chunk.js",
     "static/js/4.e33eb600.chunk.js.map": "/ReactSocial.git/static/js/4.e33eb600.chunk.js.map",
     "index.html": "/ReactSocial.git/index.html",
-    "precache-manifest.c9b4a02653e3e215dca9a484bf2109cf.js": "/ReactSocial.git/precache-manifest.c9b4a02653e3e215dca9a484bf2109cf.js",
+    "precache-manifest.12718e203b0fd98e0c8af03f0c8448f9.js": "/ReactSocial.git/precache-manifest.12718e203b0fd98e0c8af03f0c8448f9.js",
     "service-worker.js": "/ReactSocial.git/service-worker.js",
     "static/css/3.0dbcd7d3.chunk.css.map": "/ReactSocial.git/static/css/3.0dbcd7d3.chunk.css.map",
     "static/css/4.8ae4ed97.chunk.css.map": "/ReactSocial.git/static/css/4.8ae4ed97.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.4ce131e0.js",
     "static/js/2.b4ff5aa8.chunk.js",
     "static/css/main.44d12d77.chunk.css",
-    "static/js/main.a26d12dc.chunk.js"
+    "static/js/main.e72a5117.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "764c79f268c04a33e4b17fad99fd4570",
+    "revision": "d763160201494d277f959ad55ebc797d",
     "url": "/ReactSocial.git/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactSocial.git/static/css/4.8ae4ed97.chunk.css"
   },
   {
-    "revision": "56e68b712a4cfde4a3a0",
+    "revision": "2e25fe6b8a7bc776f713",
     "url": "/ReactSocial.git/static/css/main.44d12d77.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactSocial.git/static/js/4.e33eb600.chunk.js"
   },
   {
-    "revision": "56e68b712a4cfde4a3a0",
-    "url": "/ReactSocial.git/static/js/main.a26d12dc.chunk.js"
+    "revision": "2e25fe6b8a7bc776f713",
+    "url": "/ReactSocial.git/static/js/main.e72a5117.chunk.js"
   },
   {
     "revision": "4d132fa01de5bf6d7cd9",
