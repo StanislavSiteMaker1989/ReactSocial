@@ -1,0 +1,11 @@
+.like{
+    color: #ff0027;
+}
+.item{
+    color: #ffff1b;
+}
+.item img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}

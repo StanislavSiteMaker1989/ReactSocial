@@ -1,0 +1,19 @@
+.content {
+    grid-area: c;
+    display: grid;
+    grid-template-columns: 3fr  9fr;
+}
+
+.peopleDialogs{
+    padding: 20px;
+}
+.people{
+
+}
+
+.message{
+    color: black;
+}
+.peopleDialogs .active{
+    color: #0dffed;
+}
