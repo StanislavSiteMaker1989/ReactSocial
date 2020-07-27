@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6388f1872bd455ea16bf282d618699d",
+    "revision": "d0dc870f7ebbcba8917820ffd4aaaf4a",
     "url": "/ReactSocial/index.html"
   },
   {
